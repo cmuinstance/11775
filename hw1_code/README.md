@@ -1,4 +1,6 @@
-'''Run "run.feature.sh" to extract MFCC/ASR features.
+# hw1_code
+'''
+Run "run.feature.sh" to extract MFCC/ASR features.
 Run "run.med.sh" to train/evaluate classification models. make a prediction for validation(or test) set.
 
 *The scripts has been designated to yield results for test set. 
