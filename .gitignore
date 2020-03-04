@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+hw1_code/**/*.model
+hw1_code/**/*.csv
+hw1_code/audio/
+hw1_code/mfcc/
+hw1_code/**/*.ipynb
+hw1_code/**/*.pkl
